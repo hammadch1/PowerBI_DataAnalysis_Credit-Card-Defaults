@@ -10,3 +10,7 @@ STEPS TO FOLLOW:
     2.1. Corrected the column names by transforming data feature so that they would be descriptive
     2.2. Replaced the IDs of columns such as Sex, Education, Marriage with meaningful data for the dashboard
 3. Start with the Report
+    3.1. I used default bar charts to show default as per marital status/sex/education level, and also line chart.
+    3.2. Map Preview was added from options->preview features->show map preview checked
+    3.3. Card is used to show ratio of default
+    3.4. Slicers are also used because when we use gender in legend we can't see the scenario of both
