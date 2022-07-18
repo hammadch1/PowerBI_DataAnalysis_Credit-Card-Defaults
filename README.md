@@ -6,4 +6,4 @@ Output: Appealing and Interactive Visual Report
 
 STEPS TO FOLLOW:
 1. Load the data in POWER PI Desktop app
-2. Corrected the column names so that they would be descriptive
+2. Corrected the column names by transforming data feature so that they would be descriptive
