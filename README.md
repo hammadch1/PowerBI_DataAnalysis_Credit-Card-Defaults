@@ -1,12 +1,12 @@
 # PowerBI_DataAnalysis_Credit-Card-Defaults
 
-##Data: The data is about the credit card defaults that happened back in Taiwan in 2005.
+## Data: The data is about the credit card defaults that happened back in Taiwan in 2005.
 
-##Dataset: UCI Machine Learning Dataset Repository. Last column is additional column that contains fake geo-locations of the USA states just to learn how to visualise geo-location data.
+## Dataset: UCI Machine Learning Dataset Repository. Last column is additional column that contains fake geo-locations of the USA states just to learn how to visualise geo-location data.
 
-##Output: Appealing and Interactive Visual Report
+## Output: Appealing and Interactive Visual Report
 
-##STEPS TO FOLLOW:
+## STEPS TO FOLLOW:
 1. Load the data in POWER PI Desktop app
 
 2. Transformation of Data: 
@@ -17,7 +17,7 @@
     
 3. Start with the Report
 
-    3.1. I used default bar charts to show default as per marital status/sex/education level, and also line chart.
+    3.1. Bar charts are used to show default as per marital status/sex/education level, and also line chart.
     
     3.2. Map Preview was added from options->preview features->show map preview checked
     
@@ -27,7 +27,7 @@
     
     
   
-DASHBOARD:
+## DASHBOARD:
 
 <a target='_blank'>
   
