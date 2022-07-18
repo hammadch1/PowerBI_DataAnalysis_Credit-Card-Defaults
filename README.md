@@ -14,3 +14,12 @@ STEPS TO FOLLOW:
     3.2. Map Preview was added from options->preview features->show map preview checked
     3.3. Card is used to show ratio of default
     3.4. Slicers are also used because when we use gender in legend we can't see the scenario of both
+    
+  
+DASHBOARD:
+
+<a target='_blank'>
+  
+<img class='header-img' width=1174px height=536px src='https://raw.githubusercontent.com/hammadch1/PowerBI_DataAnalysis_Credit-Card-Defaults/master/Credit_Card_Default_Visualization_Using_PowerBI.png' />
+
+</a>
