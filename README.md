@@ -1,8 +1,12 @@
-# hammadch1-PowerBI_DataAnalysis_Credit-Card-Defaults
+# PowerBI_DataAnalysis_Credit-Card-Defaults
 
-Dataset: UCI Machine Learning Dataset Repository with one additional column that contains fake geographical locations of the USA states.
+Data: The data is about the credit card defaults that happened back in Taiwan in 2005.
+Dataset: UCI Machine Learning Dataset Repository. Last column is additional column that contains fake geo-locations of the USA states just to learn how to visualise geo-location data.
 Output: Appealing and Interactive Visual Report
 
 STEPS TO FOLLOW:
 1. Load the data in POWER PI Desktop app
-2. Corrected the column names so that they would be descriptive
+2. Transformation of Data: 
+    2.1. Corrected the column names by transforming data feature so that they would be descriptive
+    2.2. Replaced the IDs of columns such as Sex, Education, Marriage with meaningful data for the dashboard
+3. Start with the Report
