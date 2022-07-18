@@ -9,4 +9,4 @@ STEPS TO FOLLOW:
 2. Transformation of Data: 
     2.1. Corrected the column names by transforming data feature so that they would be descriptive
     2.2. Replaced the values of columns with more meaningful data for the dashboard
-3. 
+3. Start with the Report
